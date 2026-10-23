@@ -1,6 +1,6 @@
-# SmartFlood V3.3
+# SmartFlood V4.1
 
-SmartFlood V3.3 brings the SmartFlood-V3.2rey frontend presentation into the V3.2 application while preserving V3.2 APIs, services, authentication, role permissions, database usage, and AI workflows.
+SmartFlood V4.1 brings the SmartFlood-V4 frontend presentation into the V4.1 application while preserving V4.1 APIs, services, authentication, role permissions, database usage, and AI workflows.
 
 The frontend migration passes its automated checks. Rendered visual acceptance and authenticated end-to-end verification remain pending. See [the migration report](Frontend/MIGRATION_REPORT.md) and [the UI/API audit](Frontend/UI_PARITY_AUDIT.md) for implemented areas and unavailable capabilities.
 
